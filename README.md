@@ -1,2 +1,2 @@
 # PublishPress-Authors-TwentyTwenty-Child
-Child theme for Newspaper theme adding compatibility with PublishPress Authors
+Child theme for TwentyTwenty theme adding compatibility with PublishPress Authors
